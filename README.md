@@ -4,6 +4,8 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 
 ![github](capture.png)
 
+
+
 ## Installation
 
 Öncelikle projeyi clonelayın.
